@@ -1,0 +1,8 @@
+addUser("anuj")
+addUser("ranjeet")
+addBook("c++", "ajay", 20)
+addBook("java", "amit", 20)
+addBook("php", "vishal", 20)
+addBook("scala", "brijesh", 20)
+bookIssue(1, 1)
+
